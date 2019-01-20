@@ -1,5 +1,28 @@
-(" Aspirin(Oral) ", '2' , 'id.heparin, id.warfarin, id.ibuprofen' , '0','0','0','0','1','1' , '0','6','0','0','1')
 
 
+(" Penicillin(Oral) ", '1' , 'id.contraceptive' , '1','0','0','1','0','0' , '1','0','0','0','0', "Bazı süt ürünleri ile kullanıldığında etkisinde azalma gözükebilir. Daha fazla bilgi için lütfen prospektüse başvurunuz.)
+(" Codeine(Oral) ", '2' , ' id.warfarin, id.ibuprofen, id.Xanax' , '0','0','1','0','1','0' , '0','9','0','0','0')
+(" Xanax(Oral) ", '3' , ' id.ibuprofen' , '0','0','0','0','1','1' , '1','9','0','0','1')
+(" Mirena ", '4' , ' id.xanax, id.ibuprofen' , '1','0','3','0','0','0' , '0','9','0','0','1')
+(" Warfarin(Oral) ", '5' , 'id.heparin, id.penicillin, id.ibuprofen' , '1','0','0','0','1','1' , '0','9','0','1','1', " İlacı kullanırken greyfurt suyu, nar suyu tüketiminden kaçınılmalıdır.)
+(" Aspirin(Oral) ", '6' , 'id.heparin, id.warfarin, id.ibuprofen' , '0','0','0','0','1','1' , '0','6','0','0','1')
+(" Ibuprofen(Oral) ", '6' , 'id.xanax, id.aspirin, id.codeine, id.warfarin, id.ibuprofen' , '0','2','3','0','1','1' , '1','6','1','0','0')
 
-(" Oguz Salar " , '47583727449' , 'id.antidepp, id.Ibuprofen' , '0', '0', '1', '0', '1')
+*Format*
+( Name, type, kullanma, boolofdrugs, ofcond,)
+
+Penicilinn
+4 doses of 25-100mg per kg under 12
+1-4 grams over 12
+contraceptive 
+bobrekler
+
+https://www.drugs.com/drug-interactions/codeine.html
+https://www.drugs.com/coumadin.html
+
+
+(" Oguz Salar " , '47583727449' , 'id.aspirin, id.Ibuprofen' , '0', '0', '1', '1', '1')
+(" Mehmet Doğar " , '47583727449' , 'id.xanax, id.warfarin' , '0', '0', '1', '0', '0')
+(" Fatma Muratoğlu " , '47583727449' , 'id.Codeine, id.mirena' , '0', '1', '1', '0', '1')
+(" Oguz Salar " , '47583727449' , 'id.penicillin, id.Ibuprofen' , '1', '1', '1', '0', '0')
+(" Oguz Salar " , '47583727449' , 'id.aspirin' , '1', '0', '1', '0', '1')
