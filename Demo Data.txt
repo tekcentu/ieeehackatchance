@@ -1,0 +1,5 @@
+(" Aspirin(Oral) ", '2' , 'id.heparin, id.warfarin, id.ibuprofen' , '0','0','0','0','1','1' , '0','6','0','0','1')
+
+
+
+(" Oguz Salar " , '47583727449' , 'id.antidepp, id.Ibuprofen' , '0', '0', '1', '0', '1')
