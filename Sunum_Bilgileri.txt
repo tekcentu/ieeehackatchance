@@ -1,0 +1,16 @@
+2018 Devlet Hastane Sayisi: 673
+2018 Yatak Sayisi 23.368
+Hekim Sayisi : 144 Bin
+Saglik Kurumu Sayisi: 6 863
+
+Amerikada Yilda Yaklasik 7000 ilaç reaksiyonlarindan kaynaklanan ölüm var
+Halbuki is kazalarinda bu sayi 6000 civarnda
+
+Hastanedeki hastalarin %6.7si ciddi bir reaksiyon yasiyor, ölüm orani ise %0.32, Bu sayi
+küçük gözükse de aslinda yillik 2 milyonun üzerinde komplikasyon yasayan hasta, ve 100binin üzerinde
+de bu reaksiyonlardan ölen hasta bulunuyor. Bu sayi ilaç reaksiyonlarini en çok ölüme yol açan
+sebepler listesinde 4. siraya sokuyor. BU da Diyabet, aids ve otomobil kazalarinin üzerinde.
+
+Hastalar 4 ve üzeri farkli türde ilaç kullaniyorken reaksiyonlar exponentiel olarak yükseliyor.
+
+Geçtigimiz yil sadece Amerikada 20 nin üzerinde Tip ve Ilaç konferansi yapildi
